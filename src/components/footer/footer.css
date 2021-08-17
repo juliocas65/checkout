@@ -1,0 +1,13 @@
+.Footer__logo {
+  width: 5rem;
+}
+
+.Footer_footband {
+  padding: 1rem;
+  background-color: rgb(158, 201, 225)
+}
+
+.Footer_container {
+  background-color: black;
+  color: white;
+}

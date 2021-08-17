@@ -1,0 +1,14 @@
+.CartResumeItem_product-icon {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+  margin: .3rem;
+}
+
+.CartResumeItem_plusminus-icon {
+  width: 1rem;
+}
+
+.CartResumeItem_cart-resume-container {
+  padding: 1rem;
+}
